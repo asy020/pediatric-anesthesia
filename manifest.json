@@ -1,0 +1,26 @@
+{
+  "name": "소아 마취 준비 · 참고 계산기",
+  "short_name": "소아마취 준비",
+  "description": "소아 마취 준비물과 체중별 약물 환산 참고용 앱",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6fa",
+  "theme_color": "#112b47",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

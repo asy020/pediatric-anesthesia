@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><rect width="512" height="512" rx="120" fill="#123b61"/><rect x="206" y="102" width="100" height="308" rx="22" fill="white"/><rect x="102" y="206" width="308" height="100" rx="22" fill="white"/><circle cx="388" cy="390" r="39" fill="#5fe4d0"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="흰 간호사 모자와 빨간 십자가를 쓴 노란 우사기">
+<rect width="512" height="512" rx="96" fill="#fff"/>
+<ellipse cx="217" cy="135" rx="39" ry="111" fill="#fff0bd" stroke="#30221d" stroke-width="12" transform="rotate(-10 217 135)"/>
+<ellipse cx="218" cy="130" rx="19" ry="78" fill="#f7b5c5" transform="rotate(-10 218 130)"/>
+<ellipse cx="304" cy="133" rx="39" ry="111" fill="#fff0bd" stroke="#30221d" stroke-width="12" transform="rotate(12 304 133)"/>
+<ellipse cx="303" cy="128" rx="19" ry="78" fill="#f7b5c5" transform="rotate(12 303 128)"/>
+<path d="M142 256C111 275 95 319 107 357C127 421 173 460 235 468L251 474L266 465C329 465 380 418 397 354C411 303 380 253 356 235C326 206 187 202 142 256Z" fill="#fff3ca" stroke="#30221d" stroke-width="13" stroke-linejoin="round"/>
+<path d="M130 341C103 332 93 354 114 368L135 374M380 341C404 330 415 354 393 371L372 374" fill="#fff3ca" stroke="#30221d" stroke-width="12" stroke-linecap="round"/>
+<path d="M199 451Q191 481 225 488Q247 486 251 469M266 463Q269 487 292 485Q320 480 304 448" fill="#fff3ca" stroke="#30221d" stroke-width="12" stroke-linejoin="round"/>
+<path d="M124 209Q153 147 256 159Q356 147 388 210L369 262Q253 209 144 263Z" fill="#fff" stroke="#30221d" stroke-width="13" stroke-linejoin="round"/>
+<path d="M241 176H272V197H296V227H271V249H241V228H218V198H241Z" fill="#ed2d3a"/>
+<path d="M163 288Q183 265 199 283M309 283Q330 265 349 287" fill="none" stroke="#30221d" stroke-width="9" stroke-linecap="round"/>
+<ellipse cx="207" cy="322" rx="18" ry="24" fill="#30221d"/><ellipse cx="303" cy="322" rx="18" ry="24" fill="#30221d"/>
+<circle cx="212" cy="314" r="6" fill="white"/><circle cx="308" cy="314" r="6" fill="white"/>
+<ellipse cx="154" cy="362" rx="37" ry="23" fill="#f6a5b2"/><ellipse cx="355" cy="362" rx="37" ry="23" fill="#f6a5b2"/>
+<path d="M143 355L139 366M155 352L151 365M167 355L163 367M344 356L340 367M355 352L351 365M367 355L363 366" stroke="#30221d" stroke-width="6" stroke-linecap="round"/>
+<path d="M240 353Q255 373 270 353M255 363Q252 396 267 390Q278 384 269 370" stroke="#30221d" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="#ef91ad"/>
+<path d="M109 419Q91 427 81 443M113 430Q100 445 97 456" stroke="#30221d" stroke-width="7" stroke-linecap="round"/>
+</svg>
